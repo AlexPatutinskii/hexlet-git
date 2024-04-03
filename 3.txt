@@ -1,0 +1,83 @@
+* commit bcbb8a05b5796f8599a781dad1db406f066fbd6b
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Mon Apr 1 00:09:02 2024 +0300
+| 
+|     add content to INFO.md and README.md
+| 
+* commit 13285c8c1c3fd95e06ba0377bc74833220f9e83d
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Mon Apr 1 00:02:14 2024 +0300
+| 
+|     Revert "2"
+|     
+|     This reverts commit 9cdb5184e15e9ff90277629056415595f41be3dd.
+| 
+* commit 388d1d2eb5a61176fe24e8d7e97efeab2150678f
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Mon Apr 1 00:01:04 2024 +0300
+| 
+|     Revert "1"
+|     
+|     This reverts commit 4b8a42281cccc4bbbeda8ee6427e01b4baf2296f.
+| 
+* commit 9cdb5184e15e9ff90277629056415595f41be3dd
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Mon Apr 1 00:00:23 2024 +0300
+| 
+|     2
+| 
+* commit 4b8a42281cccc4bbbeda8ee6427e01b4baf2296f
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Mon Apr 1 00:00:00 2024 +0300
+| 
+|     1
+| 
+* commit f5870b2d00f538459160b04ccf20b6990d65a476
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Sun Mar 31 23:57:58 2024 +0300
+| 
+|     update README.md
+| 
+* commit 96fda6f3778ec4a9050b3b9fb6e52300132d8576
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Sun Mar 31 23:42:11 2024 +0300
+| 
+|     Revert "People.md reoved"
+|     
+|     This reverts commit 346a871f25858668e3d07c1cf57cafbba5a4b68c.
+| 
+* commit 346a871f25858668e3d07c1cf57cafbba5a4b68c
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Sun Mar 31 23:40:48 2024 +0300
+| 
+|     People.md reoved
+| 
+* commit 476dbde4d75743e14af6d1efa34440630a1f0bf1
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Sat Mar 30 23:39:22 2024 +0300
+| 
+|     add new content
+| 
+* commit de3dbb7507875be096ce231c6031047aafc78f1f
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Sat Mar 30 11:54:40 2024 +0300
+| 
+|     added info.md adnd removed new.md
+| 
+* commit 9c3479f5006481b8427faec75d7afa280de6b97c
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Wed Mar 27 16:36:21 2024 +0300
+| 
+|     add NEW.md file
+| 
+* commit df6a6e3160d4d2c9389ea5536e6c810ddd679e13
+| Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+| Date:   Wed Mar 27 10:53:33 2024 +0300
+| 
+|     add people.md
+| 
+* commit 94befa236712853386f6ca4caa4ca3d808bf6c77
+  Author: AlexPatutinskii <aleks_patutinskii@mail.ru>
+  Date:   Wed Mar 27 10:49:06 2024 +0300
+  
+      add readme.md
